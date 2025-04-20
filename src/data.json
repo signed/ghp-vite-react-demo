@@ -6,5 +6,9 @@
   {
     "name": "Berlin",
     "url": "https://www.berlin.de/"
+  },
+  {
+    "name": "München",
+    "url": "https://www.muenchen.de//"
   }
 ]
