@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import { cities } from './Cities.ts'
+import { cities } from './cities.ts'
 import { City } from './City.tsx'
 
 function App() {
