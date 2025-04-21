@@ -6,7 +6,10 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
+    "test": "vitest run --typecheck",
+    "typecheck": "tsc --noEmit",
     "lint": "eslint .",
+    "nitpick": "pnpm run test -- typecheck lint",
     "preview": "vite preview",
     "format:check": "prettier --check .",
     "format": "prettier --write ."
