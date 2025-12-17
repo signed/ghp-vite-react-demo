@@ -1,14 +1,18 @@
 [
   {
     "name": "Hamburg",
-    "url": "https://www.hamburg.de/"
+    "url": "https://www.hamburg.de"
   },
   {
     "name": "Berlin",
-    "url": "https://www.berlin.de/"
+    "url": "https://www.berlin.de"
   },
   {
     "name": "München",
-    "url": "https://www.muenchen.de//"
+    "url": "https://www.muenchen.de"
+  },
+  {
+    "name": "Köln",
+    "url": "https://www.koeln.de"
   }
 ]
